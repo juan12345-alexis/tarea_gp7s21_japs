@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tarea_gp7s21_japs</string>
+    <string name="titulo">espera un momento........</string>
+    <string name="titulo2">ingresa datos</string>
+    <string name="nombre">ingresa tu nombre</string>
+    <string name="edad">ingresa tu edad</string>
+    <string name="btnvalidar">validar</string>
+    <string name="btnmenor">regresar</string>
+    <string name="btnmayor">regresar</string>
+
+
+
+
+
+
+
+
+</resources>
